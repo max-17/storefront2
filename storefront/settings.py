@@ -90,9 +90,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'storefront',
-        'HOST': 'localhost',
-        'USER': 'root',
-        'PASSWORD': 'MyPassword'
+        'HOST': 'database-1.cioow6lza0pg.ap-northeast-2.rds.amazonaws.com',
+        'USER': 'admin',
+        'PASSWORD': 'password'
     }
 }
 
