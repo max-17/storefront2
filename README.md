@@ -2,6 +2,6 @@ RESTFULL API for ecommoerce website
 
 Database : MySql
 
-Authentification: Simple JWT
+Authentication: Simple JWT
 
 Framework: Django REST framework
